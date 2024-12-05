@@ -1,0 +1,26 @@
+{
+  "name": "ct-currency-converter",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "npm run test",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaitanya393/ct-currency-converter.git::.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Chaitanya Tiwari",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Chaitanya393/ct-currency-converter.git::/issues"
+  },
+  "homepage": "https://github.com/Chaitanya393/ct-currency-converter.git::#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
